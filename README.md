@@ -27,7 +27,7 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 1. Faça o clone deste projeto, conforme comando abaixo...
 
 ```sh
-git clone https://github.com/kaichiro/convert-my-money.git
+git clone https://github.com/LeonardoCarvalh0/Gostack-desafio-01.git
 ```
 
 2. Nevegue até o diretório do projeto...
@@ -39,7 +39,7 @@ cd convert-my-money
 3. Instale as dependências para o projeto...
 
 ```sh
-yarn install
+yarn
 ```
 
 4. Comando para rodar/startar o projeto localmente
