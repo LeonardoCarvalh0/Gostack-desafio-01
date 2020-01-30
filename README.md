@@ -33,7 +33,7 @@ git clone https://github.com/LeonardoCarvalh0/Gostack-desafio-01.git
 2. Nevegue até o diretório do projeto...
 
 ```sh
-cd convert-my-money
+cd Gostack-desafio-01
 ```
 
 3. Instale as dependências para o projeto...
